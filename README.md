@@ -10,4 +10,4 @@ GUI image editor written in C++ and Qt6.
  - [x] Filters
  - [ ] Undo / redo
  - [ ] Zoom in / out
- - [ ] Save the image
+ - [x] Save the image
