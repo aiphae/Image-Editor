@@ -5,7 +5,7 @@ GUI image editor written in C++ and Qt6.
 
  - [x] Starting menu UI
  - [x] Uploading an image
- - [ ] Editing menu UI
+ - [x] Editing menu UI
  - [ ] Color correction
  - [ ] Filters
  - [ ] Undo / redo
