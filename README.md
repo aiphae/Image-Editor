@@ -14,6 +14,7 @@ Functionality:
 ---
 Further to implement:
 
+ - [ ] Remade as astro-tool: deconvolution, sharpness
  - [ ] Several optimizations
  - [ ] Zoom in/out
  - [ ] Undo/redo
